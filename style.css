@@ -1,0 +1,221 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto|Suez+One&display=swap');
+body{
+ width: 100%;
+ height: 100%;
+ color:#0069C9;
+}
+#avto{
+    margin-top: 120px;
+}
+.input{
+    margin-left:43%;
+    margin-top: 5px;
+    width: 200px;
+}
+.input:hover{
+    border:1px solid #0069C9;
+    padding:5px;
+    border-radius: 20px;
+}
+.label{
+    margin-left: 43%;
+    margin-top: 5px;
+    font-size:20px;
+    color:#0069C9;
+}
+.submit{
+    margin-left:43%;
+    margin-top: 15px;
+    background-color:#0069C9;
+    color:aliceblue;
+    border-radius: 50px;
+}
+.submit:hover{
+    transform: scale(1.05);
+    box-shadow: 3px 3px 2px silver;
+    transition: 0.1s;
+    background-color: darkblue;
+    color: burlywood;
+}
+.btn{
+
+    margin-top: 15px;
+    background-color:#0069C9;
+    color:aliceblue;
+    border-radius: 50px;
+}
+.btn:hover{
+      transform: scale(1.05);
+    box-shadow: 3px 3px 2px silver;
+    transition: 0.1s;
+    background-color: darkblue;
+    color: burlywood;
+}
+#sms{
+    margin-top: 50px;
+    font-size: 20px;
+    color:blue;
+    text-align: center;
+
+}
+.table{
+   padding:5px;
+}
+.name{
+    color: red;
+    font-size: 20px;
+    padding:10px;
+    width: 200px;
+    border:1px solid #29B4C5;
+    height: 100px;
+
+}
+.harakter{
+    color:blue;
+    width: 450px;
+    padding:10px;
+     border:1px solid #29B4C5;
+
+}
+.kol{
+    height: 20px;
+    width: 150px;
+    font-weight: 900;
+    text-align:center;
+     border:1px solid #29B4C5;
+}
+.plus{
+    float: left;
+    margin-left: 150px;
+    width: 170px;
+}
+.btn1{
+    width: 150px;
+    height: 30px;
+    border-color:#6B4D29;
+    background-color: #1E94D0;
+    color:white;
+    border-radius: 50px;
+
+}
+.btn1:hover{
+    transform: scale(1.1);
+    font-weight: 1000;
+    box-shadow: 8px -8px 5px #CBBDB1;
+}
+#login{
+    text-align:center;
+    color:#1E94D0;
+}
+.haha{
+    background-image: url(https://st.depositphotos.com/1001911/4372/v/450/depositphotos_43725677-stock-illustration-wiping-tear-emoticon.jpg);
+    width: 600px;
+    height: 500px;
+    margin-top: 20px;
+    margin-left: 400px;
+    border:1px solid white;
+}
+.btn2{
+    width: 50px;height: 50px;
+    border-radius: 100px;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTg-XI1dhUv7ka_JGIKYMRuNwsCKj-k6QtVoCKEIlooEOlZX_2U&usqp=CAU);
+    background-size: cover;margin-top: -5px;
+}
+.btn2:hover{
+    transform:rotate(360deg) scale(1.5);
+
+    transition: 10s;
+}
+.btn3{
+    float: right;
+    margin-right: 30px;
+    margin-top: 10px;
+    border-radius: 20px;
+    color:#fff;
+    background-color: #253992;
+    padding: 3px;
+    border:1px solid #253992;
+    position: absolute;
+    top:6px;
+    right: 30px;
+}
+.btn3:hover{
+    color:red;
+    transform:scale(1.1);
+}
+.btn4{
+     border-radius: 20px;
+    color:#fff;
+    background-color: #253992;
+    padding: 3px;
+    border:1px solid #253992;
+    position: absolute;
+    top :16px;
+    right: 200px;
+    float: right;
+}
+.btn4:hover{
+    color:#29B4C5;
+    transform:scale(1.1);
+}
+.btn5{
+    width: 30%;
+    margin:20px;
+
+}
+.id{
+    font-size: 20px;
+    font-weight: 1000;
+    width: 60px;
+    text-align:center;
+    border:1px solid #29B4C5;
+}
+.blok{
+    width: 100%;
+    height: 50px;
+    background-color: #253992;
+    color:#fff;
+    text-align: center;
+    padding-top:5px;
+    font-size: 25px;
+    font-weight: 600;
+    position: fixed;
+    top:0;
+    left:0;
+    z-index: 5;
+    font-family: Suez+One, sans-serif;
+}
+
+.serch{
+    float: right;
+    width: 700px;
+    height: 30px;
+    text-align:right;
+    margin-right: 190px;
+}
+#table{
+    margin-left: 100px;
+}
+#cot{
+    margin-left: 100px;
+    margin-top:50px;
+    width: 80%;
+    height: 1000px;
+}
+.nazad{
+    position:fixed;
+    float:right;
+    top :100px;
+    right: 100px;
+
+}
+.btn5{
+      width: 100px;
+    background-color: #1E94D0;
+    text-align:center;
+    height: 30px;
+    padding:3px;
+    border-radius: 30px;
+    color:#fafafa;
+    font-weight: 800;
+}
